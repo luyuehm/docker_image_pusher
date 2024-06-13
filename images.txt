@@ -1,1 +1,1 @@
-quay.io/cephcsi/cephcsi
+luyuehm/rockylinux-toolkit
