@@ -1,1 +1,1 @@
-cephcsi
+quay.io/cephcsi/cephcsi
