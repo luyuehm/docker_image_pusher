@@ -3,4 +3,5 @@
 # docker.io/calico/typha:v3.24.1
 # docker.io/calico/node:v3.24.1
 # docker.io/calico/cni:v3.24.1
-quay.io/external_storage/local-volume-provisioner:v2.3.4
+# quay.io/external_storage/local-volume-provisioner:v2.3.4
+docker.io/rancher/mirrored-flannelcni-flannel:v0.19.1
