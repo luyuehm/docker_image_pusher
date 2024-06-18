@@ -1,1 +1,2 @@
-registry.aliyuncs.com/google_containers/kube-proxy:v1.18.8
+# registry.aliyuncs.com/google_containers/kube-proxy:v1.18.8
+docker.io/calico/kube-controllers:v3.24.1
