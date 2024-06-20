@@ -1,4 +1,4 @@
-# registry.cn-hangzhou.aliyuncs.com/luyuehm
+# registry.cn-hangzhou.aliyuncs.com/luyuehm/
 # registry.aliyuncs.com/google_containers/kube-proxy:v1.18.8
 # docker.io/calico/kube-controllers:v3.24.1
 # docker.io/calico/typha:v3.24.1
@@ -12,4 +12,5 @@
 # docker.io/flannel/flannel:v0.25.4
 # docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1
 # luyuehm/defaultbackend-amd64:1.5
-luyuehm/nginx-ingress-controller:0.33.0
+# luyuehm/nginx-ingress-controller:0.33.0
+luyuehm/metrics-server:v0.3.7
