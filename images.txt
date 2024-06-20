@@ -10,4 +10,5 @@
 # k8s.gcr.io/pause:3.2
 # node:18
 # docker.io/flannel/flannel:v0.25.4
-docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1
+# docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1
+luyuehm/defaultbackend-amd64:1.5
