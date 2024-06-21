@@ -14,4 +14,5 @@
 # luyuehm/defaultbackend-amd64:1.5
 # luyuehm/nginx-ingress-controller:0.33.0
 # luyuehm/metrics-server:v0.3.7
-luyuehm/dashboard:v2.0.4
+# luyuehm/dashboard:v2.0.4
+luyuehm/metrics-scraper:v1.0.4
