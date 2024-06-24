@@ -19,4 +19,5 @@
 # quay.io/prometheus/prometheus:v2.20.0
 # quay.io/coreos/prometheus-config-reloader:v0.40.0
 # jimmidyson/configmap-reload:v0.3.0
-quay.io/prometheus/alertmanager:v0.21.0
+# quay.io/prometheus/alertmanager:v0.21.0
+grafana/grafana:7.1.0
