@@ -32,4 +32,5 @@
 # victoriametrics/vmagent:v1.91.3
 # victoriametrics/vmauth:v1.91.3
 # prom/alertmanager:v0.25.0
-victoriametrics/vmalert:v1.91.3
+# victoriametrics/vmalert:v1.91.3
+directxman12/k8s-prometheus-adapter:v0.7.0
