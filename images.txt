@@ -30,4 +30,5 @@
 # victoriametrics/vminsert:v1.91.3-cluster
 # quay.io/prometheus-operator/prometheus-config-reloader:v0.58.0
 # victoriametrics/vmagent:v1.91.3
-victoriametrics/vmauth:v1.91.3
+# victoriametrics/vmauth:v1.91.3
+prom/alertmanager:v0.25.0
