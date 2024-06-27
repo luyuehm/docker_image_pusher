@@ -23,4 +23,5 @@
 # grafana/grafana:7.1.0
 # gcr.io/google_containers/hyperkube:v1.16.0
 # victoriametrics/victoria-metrics:v1.76.1
-victoriametrics/operator:v0.39.3
+# victoriametrics/operator:v0.39.3
+victoriametrics/operator：v0.35.1
