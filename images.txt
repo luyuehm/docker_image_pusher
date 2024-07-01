@@ -34,4 +34,5 @@
 # prom/alertmanager:v0.25.0
 # victoriametrics/vmalert:v1.91.3
 # directxman12/k8s-prometheus-adapter:v0.7.0
-rancher/local-path-provisioner:v0.0.22
+# rancher/local-path-provisioner:v0.0.22
+busybox
