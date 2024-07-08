@@ -39,4 +39,4 @@
 # grafana-oss:latest
 # kbudde/rabbitmq-exporter
 # prom/snmp-exporter:latest
-skeeey/snmp_exporter:latest
+snmp_exporter:latest
