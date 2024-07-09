@@ -38,5 +38,4 @@
 # busybox
 # grafana-oss:latest
 # kbudde/rabbitmq-exporter
-# prom/snmp-exporter:latest
-ricardbejarano/snmp_exporter
+prom/snmp-exporter:v0.20.0
