@@ -38,4 +38,5 @@
 # busybox
 # grafana-oss:latest
 # kbudde/rabbitmq-exporter
-prom/snmp-exporter:v0.20.0
+# prom/snmp-exporter:v0.20.0
+quay.io/prometheuscommunity/elasticsearch-exporter:latest
