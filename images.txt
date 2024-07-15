@@ -41,4 +41,5 @@
 # prom/snmp-exporter:v0.20.0
 # quay.io/prometheuscommunity/elasticsearch-exporter:latest
 # hashicorp/http-echo
-loadimpact/k6
+# loadimpact/k6
+influxdb:1.8
