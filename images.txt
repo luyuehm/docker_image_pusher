@@ -39,4 +39,5 @@
 # grafana-oss:latest
 # kbudde/rabbitmq-exporter
 # prom/snmp-exporter:v0.20.0
-quay.io/prometheuscommunity/elasticsearch-exporter:latest
+# quay.io/prometheuscommunity/elasticsearch-exporter:latest
+hashicorp/http-echo
