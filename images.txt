@@ -44,4 +44,5 @@
 # loadimpact/k6
 # influxdb:1.8
 # kubesphere/devops-tools:ks-v3.4.1
-kubesphere/devops-apiserver:ks-v3.4.1
+# kubesphere/devops-apiserver:ks-v3.4.1
+docker.io/bitnami/zookeeper:3.9.2-debian-12-r11
