@@ -55,4 +55,5 @@
 # kafkace/kafka:v3.6.1
 # danielqsj/kafka-exporter
 # provectuslabs/kafka-ui:v0.7.1
-elastic/filebeat:7.17.23
+# elastic/filebeat:7.17.23
+elastic/logstash:7.17.23
