@@ -63,4 +63,5 @@
 # openebs/node-disk-manager:2.1.0
 # rancher/local-path-provisioner:v0.0.17
 # docker.io/library/ubuntu:16.04
-digitalocean/ceph_exporter:2.0.0-luminous
+# digitalocean/ceph_exporter:2.0.0-luminous
+digitalocean/ceph_exporter:1.1.0
