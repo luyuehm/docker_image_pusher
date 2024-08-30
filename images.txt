@@ -66,4 +66,5 @@
 # digitalocean/ceph_exporter:2.0.0-luminous
 # digitalocean/ceph_exporter:1.1.0
 # prom/blackbox-exporter:latest
-registry.cn-hangzhou.aliyuncs.com/acs/log-pilot:0.9.7-filebeat
+# registry.cn-hangzhou.aliyuncs.com/acs/log-pilot:0.9.7-filebeat
+grafana/grafana:latest
