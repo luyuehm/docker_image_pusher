@@ -68,4 +68,5 @@
 # prom/blackbox-exporter:latest
 # registry.cn-hangzhou.aliyuncs.com/acs/log-pilot:0.9.7-filebeat
 # grafana/grafana:latest
-golang:1.22-alpine
+# golang:1.22-alpine
+alpine:latest
