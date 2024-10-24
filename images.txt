@@ -69,4 +69,5 @@
 # registry.cn-hangzhou.aliyuncs.com/acs/log-pilot:0.9.7-filebeat
 # grafana/grafana:latest
 # golang:1.22-alpine
-alpine:latest
+# alpine:latest
+amazoncorretto:8u432-al2023
