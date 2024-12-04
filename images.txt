@@ -74,4 +74,5 @@
 # linuxserver/libreoffice:7.6.7
 # centos:centos7
 # xhongc/music_tag_web:latest
-openebs/provisioner-localpv:3.4.0
+# openebs/provisioner-localpv:3.4.0
+docker pull samridhi123/victorialogs:0.0.9
