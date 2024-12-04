@@ -75,4 +75,4 @@
 # centos:centos7
 # xhongc/music_tag_web:latest
 # openebs/provisioner-localpv:3.4.0
-docker pull samridhi123/victorialogs:0.0.9
+samridhi123/victorialogs:0.0.9
