@@ -75,6 +75,5 @@
 # centos:centos7
 # xhongc/music_tag_web:latest
 # openebs/provisioner-localpv:3.4.0
-# samridhi123/victorialogs:0.0.9
 # victoriametrics/victoria-logs:latest
-timberio/vector:latest
+timberio/vector:nightly-alpine
