@@ -76,4 +76,6 @@
 # xhongc/music_tag_web:latest
 # openebs/provisioner-localpv:3.4.0
 # victoriametrics/victoria-logs:latest
-timberio/vector:nightly-alpine
+# timberio/vector:nightly-alpine
+timberio/vector:nightly-debian
+
