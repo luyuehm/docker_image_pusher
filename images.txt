@@ -83,5 +83,5 @@
 # docker.io/nginxinc/nginx-unprivileged:1.20.2-alpine
 # docker.io/grafana/loki:2.9.5
 # docker.io/grafana/promtail:3.0.0
-docker.io/grafana/promtail:2.9.3
-
+# docker.io/grafana/promtail:2.9.3
+docker.io/grafana/loki:2.6.1
