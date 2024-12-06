@@ -79,5 +79,6 @@
 # timberio/vector:nightly-alpine
 # timberio/vector:nightly-debian
 # timberio/vector:0.43.0-debian
-docker.io/grafana/loki:2.9.5
+# docker.io/grafana/loki:2.9.5
+docker.io/nginxinc/nginx-unprivileged:1.20.2-alpine
 
