@@ -78,5 +78,6 @@
 # victoriametrics/victoria-logs:latest
 # timberio/vector:nightly-alpine
 # timberio/vector:nightly-debian
-timberio/vector:0.43.0-debian
+# timberio/vector:0.43.0-debian
+docker.io/grafana/loki:2.9.5
 
