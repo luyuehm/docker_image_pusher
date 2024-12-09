@@ -84,4 +84,5 @@
 # docker.io/grafana/loki:2.9.5
 # docker.io/grafana/promtail:3.0.0
 # docker.io/grafana/promtail:2.9.3
-docker.io/grafana/loki:2.6.1
+# docker.io/grafana/loki:2.6.1
+fluent/fluentd:v1.18.0-1.0
