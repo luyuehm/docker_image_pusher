@@ -87,4 +87,5 @@
 # docker.io/grafana/loki:2.6.1
 # fluent/fluentd:v1.18.0-1.0
 # fluent/fluentd:v1.18-debian-1
-fluent/fluentd-kubernetes-daemonset:v1.11.4-debian-elasticsearch7-1.0
+# fluent/fluentd-kubernetes-daemonset:v1.11.4-debian-elasticsearch7-1.0
+timberio/vector:0.43.0-distroless-libc
