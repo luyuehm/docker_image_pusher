@@ -89,9 +89,10 @@
 # fluent/fluentd:v1.18-debian-1
 # fluent/fluentd-kubernetes-daemonset:v1.11.4-debian-elasticsearch7-1.0
 # timberio/vector:0.43.0-distroless-libc
+fluentd:v1.6-1
 # fluentd:v1.18-1
 # cr.fluentbit.io/fluent/fluent-bit:3.2.2
 # elasticsearch:7.4.2
 # kibana:7.4.2
-elasticsearch:8.16.0
-kibana:8.16.0
+# elasticsearch:8.16.0
+# kibana:8.16.0
