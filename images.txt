@@ -92,4 +92,6 @@
 # fluentd:v1.18-1
 # cr.fluentbit.io/fluent/fluent-bit:3.2.2
 # elasticsearch:7.4.2
-kibana:7.4.2
+# kibana:7.4.2
+elasticsearch:8.16.0
+kibana:8.16.0
