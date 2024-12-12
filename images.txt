@@ -91,7 +91,8 @@
 # timberio/vector:0.43.0-distroless-libc
 # fluentd:v1.6-1
 # bitnami/fluentd:1.12.0-debian-10-r0
-bitnami/minideb
+# bitnami/minideb
+quay.io/fluentd_elasticsearch/fluentd:v3.4.0
 # fluentd:v1.14-1
 # fluentd:v1.18-1
 # cr.fluentbit.io/fluent/fluent-bit:3.2.2
