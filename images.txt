@@ -90,8 +90,8 @@
 # fluent/fluentd-kubernetes-daemonset:v1.11.4-debian-elasticsearch7-1.0
 # timberio/vector:0.43.0-distroless-libc
 # timberio/vector:latest-debian
-timberio/vector:0.43.1-debian
-timberio/vector:0.43.1-alpine
+# timberio/vector:0.43.1-debian
+# timberio/vector:0.43.1-alpine
 # fluentd:v1.6-1
 # bitnami/fluentd:1.12.0-debian-10-r0
 # bitnami/minideb
@@ -103,3 +103,4 @@ timberio/vector:0.43.1-alpine
 # kibana:7.4.2
 # elasticsearch:8.16.0
 # kibana:8.16.0
+msaporito/nuxt3:latest
