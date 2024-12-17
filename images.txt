@@ -104,4 +104,5 @@
 # elasticsearch:8.16.0
 # kibana:8.16.0
 # msaporito/nuxt3:latest
-aleksandrkapushchak/nuxt3:nuxt3
+# aleksandrkapushchak/nuxt3:nuxt3
+aleksandrkapushchak/nuxt3:production
