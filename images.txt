@@ -105,4 +105,5 @@
 # kibana:8.16.0
 # msaporito/nuxt3:latest
 # aleksandrkapushchak/nuxt3:nuxt3
-aleksandrkapushchak/nuxt3:production
+# aleksandrkapushchak/nuxt3:production
+heleicool/log-pilot:7.x-filebeat
