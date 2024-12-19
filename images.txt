@@ -106,4 +106,5 @@
 # msaporito/nuxt3:latest
 # aleksandrkapushchak/nuxt3:nuxt3
 # aleksandrkapushchak/nuxt3:production
-heleicool/log-pilot:7.x-filebeat
+# heleicool/log-pilot:7.x-filebeat
+redis:7.4.1-alpine
