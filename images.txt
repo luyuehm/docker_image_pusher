@@ -112,4 +112,4 @@
 # bitnami/nginx-ingress-controller:0.33.0-debian-10-r12
 # node:18.19.1-alpine3.19
 # openresty/openresty:alpine
-nginx/nginx-ingress-controller:0.33.0
+bitnami/nginx-ingress-controller:0.33.0
