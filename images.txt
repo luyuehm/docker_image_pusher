@@ -117,4 +117,6 @@
 # coredns/coredns:1.8.0
 # kubernetesui/dashboard:v2.7.0
 # kubernetesui/metrics-scraper:v1.0.8
-k8s.gcr.io/ingress-nginx/controller:v1.1.0
+# k8s.gcr.io/ingress-nginx/controller:v1.1.0
+k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
+k8s.gcr.io/defaultbackend-amd64:1.5
