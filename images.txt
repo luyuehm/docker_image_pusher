@@ -115,5 +115,6 @@
 # bitnami/nginx-ingress-controller:0.33.0
 ## upgrade k8s
 # coredns/coredns:1.8.0
-kubernetesui/dashboard:v2.7.0
-kubernetesui/metrics-scraper:v1.0.8
+# kubernetesui/dashboard:v2.7.0
+# kubernetesui/metrics-scraper:v1.0.8
+k8s.gcr.io/ingress-nginx/controller:v1.1.0
