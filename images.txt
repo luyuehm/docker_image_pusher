@@ -125,6 +125,13 @@
 # bitnami/metallb-speaker:0.14.9
 # bitnami/kube-rbac-proxy:0.18.2
 # quay.io/frrouting/frr:9.1.0
-quay.io/metallb/frr-k8s:v0.0.16
-quay.io/frrouting/frr:9.1.0
-gcr.io/kubebuilder/kube-rbac-proxy:v0.12.0
+# quay.io/metallb/frr-k8s:v0.0.16
+# quay.io/frrouting/frr:9.1.0
+# gcr.io/kubebuilder/kube-rbac-proxy:v0.12.0
+## kube-prometheus
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
+quay.io/brancz/kube-rbac-proxy:v0.14.0
+grafana/grafana:9.3.2
+quay.io/prometheus/blackbox-exporter:v0.23.0
+jimmidyson/configmap-reload:v0.5.0
