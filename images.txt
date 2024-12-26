@@ -120,7 +120,11 @@
 # k8s.gcr.io/ingress-nginx/controller:v1.1.0
 # k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
 # k8s.gcr.io/defaultbackend-amd64:1.5
-bitnami/metallb-controller:0.14.9
-bitnami/metallb-speaker:0.14.9
-bitnami/kube-rbac-proxy:0.18.2
+## metallb
+# bitnami/metallb-controller:0.14.9
+# bitnami/metallb-speaker:0.14.9
+# bitnami/kube-rbac-proxy:0.18.2
+# quay.io/frrouting/frr:9.1.0
+quay.io/metallb/frr-k8s:v0.0.16
 quay.io/frrouting/frr:9.1.0
+gcr.io/kubebuilder/kube-rbac-proxy:v0.12.0
