@@ -135,6 +135,7 @@
 # grafana/grafana:9.3.2
 # quay.io/prometheus/blackbox-exporter:v0.23.0
 # jimmidyson/configmap-reload:v0.5.0
-quay.io/prometheus-operator/prometheus-config-reloader:v0.62.0
-quay.io/prometheus-operator/prometheus-operator:v0.62.0
-quay.io/prometheus/node-exporter:v1.5.0
+# quay.io/prometheus-operator/prometheus-config-reloader:v0.62.0
+# quay.io/prometheus-operator/prometheus-operator:v0.62.0
+# quay.io/prometheus/node-exporter:v1.5.0
+quay.io/prometheus/prometheus:v2.41.0
