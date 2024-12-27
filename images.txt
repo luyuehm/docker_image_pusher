@@ -153,4 +153,5 @@
 # quay.io/csiaddons/k8s-sidecar:v0.11.0
 # quay.io/ceph/ceph:v19.2.0
 # yapi
-yapipro/yapi:1.9.5
+# yapipro/yapi:1.9.5
+node:22.12.0
