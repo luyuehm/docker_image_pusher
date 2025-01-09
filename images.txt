@@ -131,25 +131,26 @@
 ## kube-prometheus
 # registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
 # registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
+# registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
 # quay.io/brancz/kube-rbac-proxy:v0.14.0
-quay.io/brancz/kube-rbac-proxy:v0.18.1
+# quay.io/brancz/kube-rbac-proxy:v0.18.1
 # grafana/grafana:9.3.2
-grafana/grafana:11.2.0
+# grafana/grafana:11.2.0
 # quay.io/prometheus/blackbox-exporter:v0.23.0
-quay.io/prometheus/blackbox-exporter:v0.25.0
+# quay.io/prometheus/blackbox-exporter:v0.25.0
 # jimmidyson/configmap-reload:v0.5.0
-ghcr.io/jimmidyson/configmap-reload:v0.13.1
+# ghcr.io/jimmidyson/configmap-reload:v0.13.1
 # quay.io/prometheus-operator/prometheus-config-reloader:v0.62.0
 # quay.io/prometheus-operator/prometheus-operator:v0.62.0
 # quay.io/prometheus/node-exporter:v1.5.0
-quay.io/prometheus/node-exporter:v1.8.2
+# quay.io/prometheus/node-exporter:v1.8.2
 # quay.io/prometheus/prometheus:v2.41.0
-quay.io/prometheus/prometheus:v2.54.1
-quay.io/prometheus/alertmanager:v0.27.0
+# quay.io/prometheus/prometheus:v2.54.1
+# quay.io/prometheus/alertmanager:v0.27.0
 ## MinIO
 # quay.io/minio/minio:RELEASE.2024-04-18T19-09-19Z
 # quay.io/minio/mc:RELEASE.2024-04-18T16-45-29Z
+minio/mc:latest
 ## rook-ceph 1.16.0
 # docker.io/rook/ceph:v1.16.0
 # quay.io/cephcsi/cephcsi:v3.13.0
