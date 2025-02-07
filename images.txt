@@ -130,7 +130,7 @@
 # gcr.io/kubebuilder/kube-rbac-proxy:v0.12.0
 ## kube-prometheus
 # registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
-registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+# registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 # registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
 # registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
 # quay.io/brancz/kube-rbac-proxy:v0.14.0
@@ -150,7 +150,7 @@ registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 # quay.io/prometheus/prometheus:v2.41.0
 # quay.io/prometheus/prometheus:v2.54.1
 # quay.io/prometheus/alertmanager:v0.27.0
-registry.k8s.io/sig-storage/snapshot-controller:v8.2.0
+# registry.k8s.io/sig-storage/snapshot-controller:v8.2.0
 ## MinIO
 # quay.io/minio/minio:RELEASE.2024-04-18T19-09-19Z
 # quay.io/minio/mc:RELEASE.2024-04-18T16-45-29Z
@@ -183,3 +183,4 @@ registry.k8s.io/sig-storage/snapshot-controller:v8.2.0
 
 # node:22.12.0
 # node:16.20.2-alpine3.17
+python:3.11-slim
