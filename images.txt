@@ -180,7 +180,13 @@
 # yapi
 # yapipro/yapi:1.9.5
 # yapipro/yapi:1.9.4
-
 # node:22.12.0
 # node:16.20.2-alpine3.17
-python:3.11-slim
+# python:3.11-slim
+## ingress-nginx
+registry.k8s.io/ingress-nginx/opentelemetry-1.25.3:v20240813-b933310d
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0
+registry.k8s.io/defaultbackend-amd64:1.5
+registry.k8s.io/ingress-nginx/controller:v1.11.4
+lemonldapng/lemonldap-ng-controller:0.2.0
+ingress-nginx/mytestmodule:v1.0.0
