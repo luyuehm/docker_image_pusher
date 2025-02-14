@@ -198,4 +198,4 @@
 # prom/prometheus:v2.52.0
 # docker.io/grafana/grafana:11.0.0
 # docker.io/jaegertracing/all-in-one:1.58
-docker.io/istio/kiali:v1.87
+docker.io/kiali:v1.87
