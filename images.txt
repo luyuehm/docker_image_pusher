@@ -155,6 +155,7 @@
 # quay.io/minio/minio:RELEASE.2024-04-18T19-09-19Z
 # quay.io/minio/mc:RELEASE.2024-04-18T16-45-29Z
 # minio/mc:RELEASE.2024-11-21T17-21-54Z.fips
+minio/minio:latest
 
 # minio/mc:latest
 ## rook-ceph 1.16.0
@@ -199,4 +200,4 @@
 # docker.io/grafana/grafana:11.0.0
 # docker.io/jaegertracing/all-in-one:1.58
 # quay.io/kiali/kiali:v1.87
-ghcr.io/open-webui/open-webui:main
+# ghcr.io/open-webui/open-webui:main
