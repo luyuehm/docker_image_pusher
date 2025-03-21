@@ -236,4 +236,5 @@
 # giopez/ffmpeg-6.0
 # nginx:latest
 # ngrok/ngrok:latest
-python:3.13-slim
+# python:3.13-slim
+quay.io/ceph/ceph:v19.2.1
