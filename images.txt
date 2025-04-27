@@ -39,7 +39,7 @@
 # grafana-oss:latest
 # kbudde/rabbitmq-exporter
 # prom/snmp-exporter:v0.20.0
-prom/snmp-exporter:v0.29.0
+prom/mysqld-exporter:v0.17.2
 # quay.io/prometheuscommunity/elasticsearch-exporter:latest
 # hashicorp/http-echo
 # loadimpact/k6
