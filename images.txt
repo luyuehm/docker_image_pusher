@@ -1,5 +1,6 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
-mysql:lts
+# mysql:lts
+nacos/nacos-peer-finder-plugin:1.1
 # nacos/nacos-server:v3.0.0
 # registry.aliyuncs.com/google_containers/kube-proxy:v1.18.8
 # docker.io/calico/kube-controllers:v3.24.1
