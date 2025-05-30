@@ -2,11 +2,16 @@
 
 ## calico
 # quay.io/tigera/operator:v1.38.0
-docker.io/calico/kube-controllers:v3.30.0
-docker.io/calico/typha:v3.30.0
-docker.io/calico/goldmane:v3.30.0
-docker.io/calico/whisker:v3.30.0
-docker.io/calico/whisker-backend:v3.30.0
+# docker.io/calico/kube-controllers:v3.30.0
+# docker.io/calico/typha:v3.30.0
+# docker.io/calico/goldmane:v3.30.0
+# docker.io/calico/whisker:v3.30.0
+# docker.io/calico/whisker-backend:v3.30.0
+docker.io/calico/node:v3.30.0
+docker.io/calico/pod2daemon-flexvol:v3.30.0
+docker.io/calico/cni:v3.30.0
+docker.io/calico/csi:v3.30.0
+docker.io/calico/node-driver-registrar:v3.30.0
 ## k8s 1.33.1
 
 # registry.k8s.io/kube-apiserver:v1.33.1
