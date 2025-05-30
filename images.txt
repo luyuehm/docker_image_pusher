@@ -1,7 +1,9 @@
+# registry.cn-hangzhou.aliyuncs.com/luyuehm/
+
 ## calico
 quay.io/tigera/operator:v1.38.0
 ## k8s 1.33.1
-# registry.cn-hangzhou.aliyuncs.com/luyuehm/
+
 # registry.k8s.io/kube-apiserver:v1.33.1
 # registry.k8s.io/kube-controller-manager:v1.33.1
 # registry.k8s.io/kube-scheduler:v1.33.1
