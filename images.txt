@@ -1,3 +1,6 @@
+## calico
+quay.io/tigera/operator:v1.38.0
+## k8s 1.33.1
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 # registry.k8s.io/kube-apiserver:v1.33.1
 # registry.k8s.io/kube-controller-manager:v1.33.1
@@ -5,7 +8,7 @@
 # registry.k8s.io/kube-proxy:v1.33.1
 # registry.k8s.io/coredns/coredns:v1.12.0
 # registry.k8s.io/pause:3.10
-registry.k8s.io/pause:3.8
+# registry.k8s.io/pause:3.8
 # registry.k8s.io/etcd:3.5.21-0
 # mysql:lts
 # nacos/nacos-server:v2.5.0
