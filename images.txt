@@ -1,7 +1,12 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
 ## calico
-quay.io/tigera/operator:v1.38.0
+# quay.io/tigera/operator:v1.38.0
+docker.io/calico/kube-controllers:v3.30.0
+docker.io/calico/typha:v3.30.0
+docker.io/calico/goldmane:v3.30.0
+docker.io/calico/whisker:v3.30.0
+docker.io/calico/whisker-backend:v3.30.0
 ## k8s 1.33.1
 
 # registry.k8s.io/kube-apiserver:v1.33.1
