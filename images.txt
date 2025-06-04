@@ -1,14 +1,16 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
 ## openebs
-openebs/lvm-driver:1.6.1
-openebs/provisioner-localpv:4.2.0
-openebs/zfs-driver:2.7.1
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
-registry.k8s.io/sig-storage/csi-provisioner:v3.5.0
-registry.k8s.io/sig-storage/csi-resizer:v1.8.0
-registry.k8s.io/sig-storage/csi-snapshotter:v6.2.2
-registry.k8s.io/sig-storage/snapshot-controller:v6.2.2
+# openebs/lvm-driver:1.6.1
+# openebs/provisioner-localpv:4.2.0
+# openebs/zfs-driver:2.7.1
+# registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
+# registry.k8s.io/sig-storage/csi-provisioner:v3.5.0
+# registry.k8s.io/sig-storage/csi-resizer:v1.8.0
+# registry.k8s.io/sig-storage/csi-snapshotter:v6.2.2
+# registry.k8s.io/sig-storage/snapshot-controller:v6.2.2
+bitnami/kubectl:1.33.1
+
 
 
 ## ingress controller
