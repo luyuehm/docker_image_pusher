@@ -1,5 +1,8 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## kubeblocks
+registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
+
 ## openebs
 # openebs/lvm-driver:1.6.1
 # openebs/provisioner-localpv:4.2.0
@@ -9,7 +12,7 @@
 # registry.k8s.io/sig-storage/csi-resizer:v1.8.0
 # registry.k8s.io/sig-storage/csi-snapshotter:v6.2.2
 # registry.k8s.io/sig-storage/snapshot-controller:v6.2.2
-bitnami/kubectl:1.33.1
+# bitnami/kubectl:1.33.1
 
 
 
