@@ -1,7 +1,7 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
 ## kubeblocks
-registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
+# registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
 
 ## openebs
 # openebs/lvm-driver:1.6.1
@@ -52,8 +52,12 @@ registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
 # registry.k8s.io/pause:3.8
 # registry.k8s.io/etcd:3.5.21-0
 # mysql:lts
+
+## nacos
+
 # nacos/nacos-server:v2.5.0
 # nacos/nacos-server:v3.0.0
+nacos/nacos-server:v3.0.1
 # nacos/nacos-peer-finder-plugin:1.1
 # registry.aliyuncs.com/google_containers/kube-proxy:v1.18.8
 # docker.io/calico/kube-controllers:v3.24.1
