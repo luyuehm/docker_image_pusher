@@ -1,8 +1,9 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
 ## skywalking
-apache/skywalking-oap-server:10.2.0
-apache/skywalking-ui:10.2.0
+# apache/skywalking-oap-server:10.2.0
+# apache/skywalking-ui:10.2.0
+apache/skywalking-satellite:v1.3.0
 
 ## kubeblocks
 # registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
