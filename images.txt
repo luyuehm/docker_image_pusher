@@ -1,9 +1,12 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## elasticserach
+docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+
 ## skywalking
 # apache/skywalking-oap-server:10.2.0
 # apache/skywalking-ui:10.2.0
-apache/skywalking-satellite:v1.3.0
+# apache/skywalking-satellite:v1.3.0
 
 ## kubeblocks
 # registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
