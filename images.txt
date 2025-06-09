@@ -1,5 +1,9 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## skywalking
+apache/skywalking-oap-server:10.2.0
+apache/skywalking-ui:10.2.0
+
 ## kubeblocks
 # registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
 
@@ -57,7 +61,7 @@
 
 # nacos/nacos-server:v2.5.0
 # nacos/nacos-server:v3.0.0
-nacos/nacos-server:v3.0.1
+# nacos/nacos-server:v3.0.1
 # nacos/nacos-peer-finder-plugin:1.1
 # registry.aliyuncs.com/google_containers/kube-proxy:v1.18.8
 # docker.io/calico/kube-controllers:v3.24.1
