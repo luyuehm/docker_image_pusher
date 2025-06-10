@@ -1,7 +1,10 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## jdk
+larrypu/jdk17:17.0.15
+
 ## elasticserach
-docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+# docker.elastic.co/elasticsearch/elasticsearch:7.17.3
 
 ## skywalking
 # apache/skywalking-oap-server:10.2.0
