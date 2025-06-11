@@ -1,7 +1,8 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
 ## kaniko
-bitnami/kaniko:1.24.0
+gcr.io/kaniko-project/executor:v1.24.0
+# bitnami/kaniko:1.24.0
 
 ## jdk
 # larrypu/jdk17:17.0.15
