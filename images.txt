@@ -1,5 +1,8 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## kaniko
+bitnami/kaniko:1.24.0
+
 ## jdk
 # larrypu/jdk17:17.0.15
 
@@ -10,8 +13,8 @@
 # apache/skywalking-oap-server:10.2.0
 # apache/skywalking-ui:10.2.0
 # apache/skywalking-satellite:v1.3.0
-apache/skywalking-java-agent:9.4.0-java17
-apache/skywalking-java-agent:9.4.0-alpine
+# apache/skywalking-java-agent:9.4.0-java17
+# apache/skywalking-java-agent:9.4.0-alpine
 
 ## kubeblocks
 # registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
