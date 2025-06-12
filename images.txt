@@ -1,5 +1,9 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## EFK
+fluent/fluent-bit:4.0.3
+ghcr.io/jimmidyson/configmap-reload:v0.14.0
+
 ## docker
 # docker:28.2.2-dind
 # docker:28.2.2-dind-alpine3.22
