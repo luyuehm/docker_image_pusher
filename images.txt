@@ -1,10 +1,14 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## keycload
+quay.io/keycloak/keycloak:26.2.5
+mirror.gcr.io/postgres:17
+
 ## EFK
 # fluent/fluent-bit:4.0.3
 # ghcr.io/jimmidyson/configmap-reload:v0.14.0
 # docker.elastic.co/kibana/kibana:8.5.1
-docker.elastic.co/kibana/kibana:7.17.3
+# docker.elastic.co/kibana/kibana:7.17.3
 
 ## docker
 # docker:28.2.2-dind
