@@ -1,5 +1,8 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## dingtalk webhook
+timonwong/prometheus-webhook-dingtalk:v2.1.0
+
 ## keycload
 #quay.io/keycloak/keycloak:26.2.5
 #mirror.gcr.io/postgres:17
@@ -24,7 +27,7 @@
 
 ## jdk
 # larrypu/jdk17:17.0.15
-eclipse-temurin:17.0.15_6-jdk-alpine-3.21
+# eclipse-temurin:17.0.15_6-jdk-alpine-3.21
 
 ## elasticserach
 # docker.elastic.co/elasticsearch/elasticsearch:7.17.3
