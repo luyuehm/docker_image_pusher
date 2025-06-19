@@ -1,7 +1,7 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
 ## memcached
-memcached:1.6
+# memcached:1.6
 
 ## thanos
 # quay.io/thanos/thanos:v0.29.0
@@ -50,6 +50,7 @@ memcached:1.6
 # registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
 
 ## openebs
+openebs/linux-utils:4.1.0
 # openebs/lvm-driver:1.6.1
 # openebs/provisioner-localpv:4.2.0
 # openebs/zfs-driver:2.7.1
