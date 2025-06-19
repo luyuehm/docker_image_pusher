@@ -1,8 +1,11 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## memcached
+memcached:1.6
+
 ## thanos
 # quay.io/thanos/thanos:v0.29.0
-jimmidyson/configmap-reload:v0.5.0
+# jimmidyson/configmap-reload:v0.5.0
 
 ## dingtalk webhook
 # timonwong/prometheus-webhook-dingtalk:v2.1.0
