@@ -1,7 +1,10 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## thanos
+quay.io/thanos/thanos:v0.29.0
+
 ## dingtalk webhook
-timonwong/prometheus-webhook-dingtalk:v2.1.0
+# timonwong/prometheus-webhook-dingtalk:v2.1.0
 
 ## keycload
 #quay.io/keycloak/keycloak:26.2.5
