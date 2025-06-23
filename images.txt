@@ -14,6 +14,9 @@
 #quay.io/keycloak/keycloak:26.2.5
 #mirror.gcr.io/postgres:17
 
+## oath2-proxy
+bitnami/oauth2-proxy:7.9.0
+
 ## EFK
 # fluent/fluent-bit:4.0.3
 # ghcr.io/jimmidyson/configmap-reload:v0.14.0
@@ -50,7 +53,7 @@
 # registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
 
 ## openebs
-openebs/linux-utils:4.1.0
+# openebs/linux-utils:4.1.0
 # openebs/lvm-driver:1.6.1
 # openebs/provisioner-localpv:4.2.0
 # openebs/zfs-driver:2.7.1
