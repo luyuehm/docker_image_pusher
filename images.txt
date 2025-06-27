@@ -1,16 +1,31 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
 ## harbor
-goharbor/nginx-photon:v2.13.1
-goharbor/harbor-portal:v2.13.1
-goharbor/harbor-core:v2.13.1
-goharbor/harbor-jobservice:v2.13.1
-goharbor/registry-photon:v2.13.1
-goharbor/harbor-registryctl:v2.13.1
-goharbor/trivy-adapter-photon:v2.13.1
-goharbor/harbor-db:v2.13.1
-goharbor/redis-photon:v2.13.1
-goharbor/harbor-exporter:v2.13.1
+goharbor/nginx-photon:v2.3.5
+goharbor/harbor-portal:v2.3.5
+goharbor/harbor-core:v2.3.5
+goharbor/harbor-jobservice:v2.3.5
+goharbor/registry-photon:v2.3.5
+goharbor/harbor-registryctl:v2.3.5
+goharbor/chartmuseum-photon:v2.3.5
+goharbor/trivy-adapter-photon:v2.3.5
+goharbor/notary-server-photon:v2.3.5
+goharbor/notary-signer-photon:v2.3.5
+goharbor/harbor-db:v2.3.5
+goharbor/redis-photon:v2.3.5
+goharbor/harbor-exporter:v2.3.5
+
+
+# goharbor/nginx-photon:v2.13.1
+# goharbor/harbor-portal:v2.13.1
+# goharbor/harbor-core:v2.13.1
+# goharbor/harbor-jobservice:v2.13.1
+# goharbor/registry-photon:v2.13.1
+# goharbor/harbor-registryctl:v2.13.1
+# goharbor/trivy-adapter-photon:v2.13.1
+# goharbor/harbor-db:v2.13.1
+# goharbor/redis-photon:v2.13.1
+# goharbor/harbor-exporter:v2.13.1
 
 ## memcached
 # memcached:1.6
