@@ -1,19 +1,23 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## nginx
+nginx:alpine3.22
+grafana/grafana:12.0.2
+
 ## harbor
-goharbor/nginx-photon:v2.3.5
-goharbor/harbor-portal:v2.3.5
-goharbor/harbor-core:v2.3.5
-goharbor/harbor-jobservice:v2.3.5
-goharbor/registry-photon:v2.3.5
-goharbor/harbor-registryctl:v2.3.5
-goharbor/chartmuseum-photon:v2.3.5
-goharbor/trivy-adapter-photon:v2.3.5
-goharbor/notary-server-photon:v2.3.5
-goharbor/notary-signer-photon:v2.3.5
-goharbor/harbor-db:v2.3.5
-goharbor/redis-photon:v2.3.5
-goharbor/harbor-exporter:v2.3.5
+# goharbor/nginx-photon:v2.3.5
+# goharbor/harbor-portal:v2.3.5
+# goharbor/harbor-core:v2.3.5
+# goharbor/harbor-jobservice:v2.3.5
+# goharbor/registry-photon:v2.3.5
+# goharbor/harbor-registryctl:v2.3.5
+# goharbor/chartmuseum-photon:v2.3.5
+# goharbor/trivy-adapter-photon:v2.3.5
+# goharbor/notary-server-photon:v2.3.5
+# goharbor/notary-signer-photon:v2.3.5
+# goharbor/harbor-db:v2.3.5
+# goharbor/redis-photon:v2.3.5
+# goharbor/harbor-exporter:v2.3.5
 
 
 
@@ -39,11 +43,11 @@ goharbor/harbor-exporter:v2.3.5
 # timonwong/prometheus-webhook-dingtalk:v2.1.0
 
 ## keycload
-#quay.io/keycloak/keycloak:26.2.5
-#mirror.gcr.io/postgres:17
+# quay.io/keycloak/keycloak:26.2.5
+# mirror.gcr.io/postgres:17
 
 ## oath2-proxy
-bitnami/oauth2-proxy:7.9.0
+# bitnami/oauth2-proxy:7.9.0
 
 ## EFK
 # fluent/fluent-bit:4.0.3
@@ -159,7 +163,7 @@ bitnami/oauth2-proxy:7.9.0
 # quay.io/coreos/prometheus-config-reloader:v0.40.0
 # jimmidyson/configmap-reload:v0.3.0
 # quay.io/prometheus/alertmanager:v0.21.0
-quay.io/prometheus/alertmanager:v0.28.1
+# quay.io/prometheus/alertmanager:v0.28.1
 # grafana/grafana:7.1.0
 # gcr.io/google_containers/hyperkube:v1.16.0
 # victoriametrics/victoria-metrics:v1.76.1
@@ -293,6 +297,7 @@ quay.io/prometheus/alertmanager:v0.28.1
 # quay.io/prometheus/alertmanager:v0.27.0
 # registry.k8s.io/sig-storage/snapshot-controller:v8.2.0
 ## MinIO
+minio/minio:RELEASE.2025-06-13T11-33-47Z
 # quay.io/minio/minio:RELEASE.2024-04-18T19-09-19Z
 # quay.io/minio/mc:RELEASE.2024-04-18T16-45-29Z
 # minio/mc:RELEASE.2024-11-21T17-21-54Z.fips
