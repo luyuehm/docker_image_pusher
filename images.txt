@@ -2,10 +2,11 @@
 
 ## nginx
 # nginx:alpine3.22
-nginx:mainline-alpine3.22-otel
+# nginx:mainline-alpine3.22-otel
 # grafana/grafana:12.0.2
-prom/alertmanager:v0.28.1
-
+# prom/alertmanager:v0.28.1
+cloudflare/cloudflared:1737-f8d12c9
+postgres:15.13
 
 ## harbor
 # goharbor/nginx-photon:v2.3.5
