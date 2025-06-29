@@ -5,8 +5,11 @@
 # nginx:mainline-alpine3.22-otel
 # grafana/grafana:12.0.2
 # prom/alertmanager:v0.28.1
-cloudflare/cloudflared:1737-f8d12c9
-postgres:15.13
+# cloudflare/cloudflared:1737-f8d12c9
+# postgres:15.13
+nginx/nginx-prometheus-exporter:1.4
+minio/mc:RELEASE.2025-05-21T01-59-54Z
+
 
 ## harbor
 # goharbor/nginx-photon:v2.3.5
