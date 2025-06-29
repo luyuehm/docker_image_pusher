@@ -7,9 +7,9 @@
 # prom/alertmanager:v0.28.1
 # cloudflare/cloudflared:1737-f8d12c9
 # postgres:15.13
-nginx/nginx-prometheus-exporter:1.4
-minio/mc:RELEASE.2025-05-21T01-59-54Z
-
+# nginx/nginx-prometheus-exporter:1.4
+# minio/mc:RELEASE.2025-05-21T01-59-54Z
+bitnami/postgres-exporter:0.17.1
 
 ## harbor
 # goharbor/nginx-photon:v2.3.5
