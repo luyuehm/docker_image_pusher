@@ -9,7 +9,8 @@
 # postgres:15.13
 # nginx/nginx-prometheus-exporter:1.4
 # minio/mc:RELEASE.2025-05-21T01-59-54Z
-bitnami/postgres-exporter:0.17.1
+# bitnami/postgres-exporter:0.17.1
+prom/snmp-exporter:v0.29.0
 
 ## harbor
 # goharbor/nginx-photon:v2.3.5
