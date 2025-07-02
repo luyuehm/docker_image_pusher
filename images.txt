@@ -12,7 +12,8 @@
 # bitnami/postgres-exporter:0.17.1
 # prom/snmp-exporter:v0.29.0
 # prometheuscommunity/ipmi-exporter:v1.10.0
-prom/snmp-generator:v0.29.0
+# prom/snmp-generator:v0.29.0
+bitnami/oauth2-proxy:7.9.0
 
 ## harbor
 # goharbor/nginx-photon:v2.3.5
