@@ -300,8 +300,8 @@
 # nibrev/ant-media-server:ams-v2.6.2
 
 # minio/mc:latest
-minio/minio:RELEASE.2024-01-11T07-46-16Z
-minio/mc:RELEASE.2024-01-11T05-49-32Z
+quay.io/minio/minio:RELEASE.2024-12-18T13-15-44Z
+quay.io/minio/mc:RELEASE.2024-11-21T17-21-54Z
 ## rook-ceph 1.16.0
 # docker.io/rook/ceph:v1.16.0
 # quay.io/cephcsi/cephcsi:v3.13.0
