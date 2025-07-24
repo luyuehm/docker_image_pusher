@@ -1,20 +1,5 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
-## nginx
-# nginx:alpine3.22
-# nginx:mainline-alpine3.22-otel
-# grafana/grafana:12.0.2
-# prom/alertmanager:v0.28.1
-# cloudflare/cloudflared:1737-f8d12c9
-# postgres:15.13
-# nginx/nginx-prometheus-exporter:1.4
-# minio/mc:RELEASE.2025-05-21T01-59-54Z
-# bitnami/postgres-exporter:0.17.1
-# prom/snmp-exporter:v0.29.0
-# prometheuscommunity/ipmi-exporter:v1.10.0
-# prom/snmp-generator:v0.29.0#
-# bitnami/oauth2-proxy:7.9.0
-
 ## harbor
 # goharbor/nginx-photon:v2.3.5
 # goharbor/harbor-portal:v2.3.5
@@ -47,7 +32,6 @@
 # memcached:1.6
 
 ## thanos
-bitnami/thanos:0.39.1
 # quay.io/thanos/thanos:v0.29.0
 # jimmidyson/configmap-reload:v0.5.0
 
@@ -55,8 +39,8 @@ bitnami/thanos:0.39.1
 # timonwong/prometheus-webhook-dingtalk:v2.1.0
 
 ## keycload
-# quay.io/keycloak/keycloak:26.2.5
-# mirror.gcr.io/postgres:17
+#quay.io/keycloak/keycloak:26.2.5
+#mirror.gcr.io/postgres:17
 
 ## oath2-proxy
 # bitnami/oauth2-proxy:7.9.0
@@ -309,7 +293,6 @@ bitnami/thanos:0.39.1
 # quay.io/prometheus/alertmanager:v0.27.0
 # registry.k8s.io/sig-storage/snapshot-controller:v8.2.0
 ## MinIO
-# minio/minio:RELEASE.2025-06-13T11-33-47Z
 # quay.io/minio/minio:RELEASE.2024-04-18T19-09-19Z
 # quay.io/minio/mc:RELEASE.2024-04-18T16-45-29Z
 # minio/mc:RELEASE.2024-11-21T17-21-54Z.fips
@@ -317,6 +300,8 @@ bitnami/thanos:0.39.1
 # nibrev/ant-media-server:ams-v2.6.2
 
 # minio/mc:latest
+minio/minio:RELEASE.2024-01-11T07-46-16Z
+minio/mc:RELEASE.2024-01-11T05-49-32Z
 ## rook-ceph 1.16.0
 # docker.io/rook/ceph:v1.16.0
 # quay.io/cephcsi/cephcsi:v3.13.0
