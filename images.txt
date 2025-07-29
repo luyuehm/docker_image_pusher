@@ -1,5 +1,20 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+## cilium
+quay.io/cilium/cilium:v1.17.6
+quay.io/cilium/certgen:v0.2.1
+quay.io/cilium/hubble-relay:v1.17.6
+quay.io/cilium/hubble-ui-backend:v0.13.2
+quay.io/cilium/hubble-ui:v0.13.2
+quay.io/cilium/cilium-envoy:v1.33.4-1752151664-7c2edb0b44cf95f326d628b837fcdd845102ba68
+quay.io/cilium/operator:v1.17.6
+quay.io/cilium/startup-script:c54c7edeab7fde4da68e59acd319ab24af242c3f
+quay.io/cilium/clustermesh-apiserver:v1.17.6
+docker.io/library/busybox:1.37.0
+ghcr.io/spiffe/spire-agent:1.9.6
+ghcr.io/spiffe/spire-server:1.9.6
+
+
 ## harbor
 # goharbor/nginx-photon:v2.3.5
 # goharbor/harbor-portal:v2.3.5
