@@ -122,7 +122,7 @@
 # docker.io/kubernetesui/dashboard-web:1.7.0
 
 ## calico
-tigera/operator:v1.38.3
+quay.io/tigera/operator:v1.38.3
 docker.io/calico/ctl:v3.30.2
 
 # quay.io/tigera/operator:v1.38.0
