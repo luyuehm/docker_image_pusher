@@ -131,8 +131,9 @@
 # docker.io/calico/csi:v3.30.2
 # docker.io/calico/goldmane:v3.30.2
 # docker.io/calico/whisker:v3.30.2
-docker.io/calico/pod2daemon-flexvol:v3.30.2
-docker.io/calico/whisker-backend:v3.30.2
+# docker.io/calico/pod2daemon-flexvol:v3.30.2
+# docker.io/calico/whisker-backend:v3.30.2
+docker.io/calico/apiserver:v3.30.2
 
 # quay.io/tigera/operator:v1.38.0
 # docker.io/calico/kube-controllers:v3.30.0
