@@ -1,5 +1,12 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.13.0
+quay.io/cephcsi/cephcsi:v3.14.2
+registry.k8s.io/sig-storage/csi-provisioner:v5.1.0
+registry.k8s.io/sig-storage/csi-resizer:v1.13.1
+registry.k8s.io/sig-storage/csi-snapshotter:v8.2.0
+
 ## cilium
 # quay.io/cilium/cilium:v1.17.6
 # quay.io/cilium/certgen:v0.2.1
@@ -133,7 +140,7 @@
 # docker.io/calico/whisker:v3.30.2
 # docker.io/calico/pod2daemon-flexvol:v3.30.2
 # docker.io/calico/whisker-backend:v3.30.2
-docker.io/calico/apiserver:v3.30.2
+# docker.io/calico/apiserver:v3.30.2
 
 # quay.io/tigera/operator:v1.38.0
 # docker.io/calico/kube-controllers:v3.30.0
