@@ -1,5 +1,7 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
-docker.io/library/kong:3.8
+rabbitmqoperator/cluster-operator:2.16.0
+
+# docker.io/library/kong:3.8
 
 # registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.13.0
 # quay.io/cephcsi/cephcsi:v3.14.2
