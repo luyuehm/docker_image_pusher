@@ -1,5 +1,5 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
-rabbitmq:4.1.1-management
+# rabbitmq:4.1.1-management
 # rabbitmqoperator/cluster-operator:2.16.0
 
 # docker.io/library/kong:3.8
@@ -165,7 +165,7 @@ rabbitmq:4.1.1-management
 # registry.k8s.io/kube-scheduler:v1.33.6
 # registry.k8s.io/kube-proxy:v1.33.6
 # registry.k8s.io/etcd:3.5.24-0
-registry.k8s.io/pause:3.10
+registry.k8s.io/pause:3.10.1
 
 
 ## k8s 1.33.1
