@@ -152,7 +152,8 @@
 # docker.io/calico/whisker:v3.30.0
 # docker.io/calico/whisker-backend:v3.30.0
 # docker.io/calico/node:v3.30.0
-docker.io/node:18.20.8-alpine
+# docker.io/node:18.20.8-alpine
+docker.io/node:18.20.8-bullseye-slim
 # docker.io/calico/pod2daemon-flexvol:v3.30.0
 # docker.io/calico/cni:v3.30.0
 # docker.io/calico/csi:v3.30.0
