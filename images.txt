@@ -147,7 +147,7 @@
 
 # quay.io/tigera/operator:v1.38.0
 # docker.io/calico/kube-controllers:v3.30.0
-docker.io/calico/kube-controllers:v3.30.2
+# docker.io/calico/kube-controllers:v3.30.2
 # docker.io/calico/typha:v3.30.0
 # docker.io/calico/goldmane:v3.30.0
 # docker.io/calico/whisker:v3.30.0
@@ -218,8 +218,8 @@ docker.io/calico/kube-controllers:v3.30.2
 # docker.io/rancher/mirrored-flannelcni-flannel-cni-plugin:v1.1.0
 # k8s.gcr.io/pause:3.2
 # node:18
-# docker.io/flannel/flannel:v0.25.4
-# docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1
+docker.io/flannel/flannel:v0.25.4
+docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1
 # luyuehm/defaultbackend-amd64:1.5
 # luyuehm/nginx-ingress-controller:0.33.0
 # luyuehm/metrics-server:v0.3.7
