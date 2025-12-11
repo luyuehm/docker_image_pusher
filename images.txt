@@ -218,8 +218,8 @@
 # docker.io/rancher/mirrored-flannelcni-flannel-cni-plugin:v1.1.0
 # k8s.gcr.io/pause:3.2
 # node:18
-docker.io/flannel/flannel:v0.25.4
-docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1
+# docker.io/flannel/flannel:v0.25.4
+# docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1
 # luyuehm/defaultbackend-amd64:1.5
 # luyuehm/nginx-ingress-controller:0.33.0
 # luyuehm/metrics-server:v0.3.7
@@ -319,6 +319,7 @@ docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1
 # aleksandrkapushchak/nuxt3:production
 # heleicool/log-pilot:7.x-filebeat
 # redis:7.4.1-alpine
+docker.io/bitnami/redis:7.0.4-debian-11-r11
 # nginx:1.19.10-alpine
 # bitnami/nginx-ingress-controller:0.33.0-debian-10-r12
 # node:18.19.1-alpine3.19
