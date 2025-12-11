@@ -319,7 +319,7 @@
 # aleksandrkapushchak/nuxt3:production
 # heleicool/log-pilot:7.x-filebeat
 # redis:7.4.1-alpine
-docker.io/bitnami/redis:7.0.4-debian-11-r11
+redis:8.4.0
 # nginx:1.19.10-alpine
 # bitnami/nginx-ingress-controller:0.33.0-debian-10-r12
 # node:18.19.1-alpine3.19
