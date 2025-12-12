@@ -319,12 +319,14 @@
 # aleksandrkapushchak/nuxt3:production
 # heleicool/log-pilot:7.x-filebeat
 # redis:7.4.1-alpine
-redis:8.4.0
+# redis:8.4.0
 # nginx:1.19.10-alpine
 # bitnami/nginx-ingress-controller:0.33.0-debian-10-r12
 # node:18.19.1-alpine3.19
 # openresty/openresty:alpine
 # bitnami/nginx-ingress-controller:0.33.0
+
+docker.io/netdata/package-builders:ubuntu22.04-v2
 ## upgrade k8s
 # coredns/coredns:1.8.0
 # kubernetesui/dashboard:v2.7.0
