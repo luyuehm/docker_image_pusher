@@ -461,3 +461,5 @@ docker.io/netdata/package-builders:ubuntu22.04-v2
 ## loki
 grafana/logstash-output-loki:1.0.1
 bats/bats:1.8.2
+grafana/loki:2.6.1
+docker.io/grafana/promtail:3.5.1
