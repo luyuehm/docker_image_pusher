@@ -454,3 +454,6 @@ docker.io/netdata/package-builders:ubuntu22.04-v2
 # ngrok/ngrok:latest
 # python:3.13-slim
 # quay.io/ceph/ceph:v19.2.1
+
+## seaweedfs
+chrislusf/seaweedfs:3.56
