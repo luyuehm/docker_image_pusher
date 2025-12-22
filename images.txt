@@ -456,4 +456,8 @@ docker.io/netdata/package-builders:ubuntu22.04-v2
 # quay.io/ceph/ceph:v19.2.1
 
 ## seaweedfs
-chrislusf/seaweedfs:3.56
+#chrislusf/seaweedfs:3.56
+
+## loki
+grafana/logstash-output-loki:1.0.1
+bats/bats:1.8.2
