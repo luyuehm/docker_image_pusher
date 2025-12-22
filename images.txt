@@ -326,7 +326,7 @@
 # openresty/openresty:alpine
 # bitnami/nginx-ingress-controller:0.33.0
 
-docker.io/netdata/package-builders:ubuntu22.04-v2
+# docker.io/netdata/package-builders:ubuntu22.04-v2
 ## upgrade k8s
 # coredns/coredns:1.8.0
 # kubernetesui/dashboard:v2.7.0
@@ -459,7 +459,7 @@ docker.io/netdata/package-builders:ubuntu22.04-v2
 #chrislusf/seaweedfs:3.56
 
 ## loki
-# grafana/logstash-output-loki:1.0.1
-# bats/bats:1.8.2
-# grafana/loki:2.6.1
+grafana/logstash-output-loki:1.0.1
+bats/bats:1.8.2
+grafana/loki:2.6.1
 grafana/promtail:3.5.1
