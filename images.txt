@@ -58,6 +58,7 @@
 
 ## thanos
 # quay.io/thanos/thanos:v0.29.0
+quay.io/thanos/thanos:v0.32.5
 # jimmidyson/configmap-reload:v0.5.0
 
 ## dingtalk webhook
@@ -465,9 +466,10 @@
 # grafana/promtail:3.5.1
 
 ## seaweedfs-csi
-registry.k8s.io/sig-storage/csi-provisioner:v3.5.0
-registry.k8s.io/sig-storage/csi-resizer:v1.8.0
-registry.k8s.io/sig-storage/csi-attacher:v4.3.0
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
-registry.k8s.io/sig-storage/livenessprobe:v2.10.0
-chrislusf/seaweedfs-csi-driver:latest
+# registry.k8s.io/sig-storage/csi-provisioner:v3.5.0
+# registry.k8s.io/sig-storage/csi-resizer:v1.8.0
+# registry.k8s.io/sig-storage/csi-attacher:v4.3.0
+# registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
+# registry.k8s.io/sig-storage/livenessprobe:v2.10.0
+# chrislusf/seaweedfs-csi-driver:latest
+# chrislusf/seaweedfs-mount:dev
