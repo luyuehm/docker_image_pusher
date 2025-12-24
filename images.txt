@@ -55,8 +55,9 @@
 
 ## memcached
 # memcached:1.6
-registry-1.docker.io/bitnami/memcached:latest
-registry-1.docker.io/bitnami/memcached-exporter:latest
+# registry-1.docker.io/bitnami/memcached:latest
+# registry-1.docker.io/bitnami/memcached-exporter:latest
+registry-1.docker.io/bitnami/os-shell:latest
 
 ## thanos
 # quay.io/thanos/thanos:v0.29.0
