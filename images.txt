@@ -55,10 +55,12 @@
 
 ## memcached
 # memcached:1.6
+registry-1.docker.io/bitnami/memcached:latest
+registry-1.docker.io/bitnami/memcached-exporter:latest
 
 ## thanos
 # quay.io/thanos/thanos:v0.29.0
-quay.io/thanos/thanos:v0.32.5
+# quay.io/thanos/thanos:v0.32.5
 # jimmidyson/configmap-reload:v0.5.0
 
 ## dingtalk webhook
