@@ -62,7 +62,7 @@
 ## thanos
 # quay.io/thanos/thanos:v0.29.0
 # quay.io/thanos/thanos:v0.32.5
-docker.io/bitnami/thanos:0.39.2-debian-12-r2
+thanosio/thanos:main-2025-12-19-9c0775c
 
 # jimmidyson/configmap-reload:v0.5.0
 
