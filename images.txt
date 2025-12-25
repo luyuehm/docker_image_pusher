@@ -59,10 +59,11 @@
 # registry-1.docker.io/bitnami/memcached-exporter:latest
 # registry-1.docker.io/bitnami/os-shell:latest
 
+
 ## thanos
 # quay.io/thanos/thanos:v0.29.0
 # quay.io/thanos/thanos:v0.32.5
-thanosio/thanos:main-2025-12-19-9c0775c
+# thanosio/thanos:main-2025-12-19-9c0775c
 
 # jimmidyson/configmap-reload:v0.5.0
 
@@ -237,6 +238,8 @@ thanosio/thanos:main-2025-12-19-9c0775c
 # quay.io/prometheus/alertmanager:v0.21.0
 # quay.io/prometheus/alertmanager:v0.28.1
 # grafana/grafana:7.1.0
+
+quay.io/kiwigrid/k8s-sidecar:1.24.4
 # gcr.io/google_containers/hyperkube:v1.16.0
 # victoriametrics/victoria-metrics:v1.76.1
 # victoriametrics/operator:v0.39.3
