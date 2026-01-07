@@ -485,5 +485,8 @@ kiwigrid/k8s-sidecar:2.1.4
 # chrislusf/seaweedfs-mount:dev
 
 ## tempo
-docker.io/grafana/tempo:2.9.0
-docker.io/grafana/tempo-query:2.9.0
+# docker.io/grafana/tempo:2.9.0
+# docker.io/grafana/tempo-query:2.9.0
+
+## Demo
+grafana/hotrod:v1.7.0
