@@ -238,8 +238,10 @@
 # quay.io/prometheus/alertmanager:v0.21.0
 # quay.io/prometheus/alertmanager:v0.28.1
 # grafana/grafana:7.1.0
+# quay.io/kiwigrid/k8s-sidecar:1.24.4
 
-quay.io/kiwigrid/k8s-sidecar:1.24.4
+kiwigrid/k8s-sidecar:2.1.4
+
 # gcr.io/google_containers/hyperkube:v1.16.0
 # victoriametrics/victoria-metrics:v1.76.1
 # victoriametrics/operator:v0.39.3
@@ -481,3 +483,7 @@ quay.io/kiwigrid/k8s-sidecar:1.24.4
 # registry.k8s.io/sig-storage/livenessprobe:v2.10.0
 # chrislusf/seaweedfs-csi-driver:latest
 # chrislusf/seaweedfs-mount:dev
+
+## tempo
+docker.io/grafana/tempo:2.9.0
+docker.io/grafana/tempo-query:2.9.0
