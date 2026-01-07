@@ -240,7 +240,7 @@
 # grafana/grafana:7.1.0
 # quay.io/kiwigrid/k8s-sidecar:1.24.4
 
-kiwigrid/k8s-sidecar:2.1.4
+# kiwigrid/k8s-sidecar:2.1.4
 
 # gcr.io/google_containers/hyperkube:v1.16.0
 # victoriametrics/victoria-metrics:v1.76.1
@@ -489,4 +489,4 @@ kiwigrid/k8s-sidecar:2.1.4
 # docker.io/grafana/tempo-query:2.9.0
 
 ## Demo
-grafana/hotrod:v1.7.0
+jaegertracing/example-hotrod:1.48.0
