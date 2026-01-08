@@ -489,4 +489,7 @@
 # docker.io/grafana/tempo-query:2.9.0
 
 ## Demo
-jaegertracing/example-hotrod:1.48.0
+# jaegertracing/example-hotrod:1.48.0
+
+## oTel Collector
+otel/opentelemetry-collector-contrib:0.111.0
