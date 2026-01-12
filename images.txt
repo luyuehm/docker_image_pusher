@@ -2,6 +2,7 @@
 
 # envoy gateway
 docker.io/envoyproxy/gateway:v1.6.1
+docker.io/envoyproxy/ratelimit:99d85510
 
 ## seaweedfs
 #chrislusf/seaweedfs:3.56
