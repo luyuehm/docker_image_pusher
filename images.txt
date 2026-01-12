@@ -1,5 +1,8 @@
 # registry.cn-hangzhou.aliyuncs.com/luyuehm/
 
+# envoy gateway
+docker.io/envoyproxy/gateway:v1.6.1
+
 ## seaweedfs
 #chrislusf/seaweedfs:3.56
 
