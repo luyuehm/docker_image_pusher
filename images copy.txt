@@ -1,0 +1,500 @@
+# registry.cn-hangzhou.aliyuncs.com/luyuehm/
+
+# envoy gateway
+docker.io/envoyproxy/gateway:v1.6.1
+docker.io/envoyproxy/ratelimit:99d85510
+
+## seaweedfs
+#chrislusf/seaweedfs:3.56
+
+## loki
+# grafana/logstash-output-loki:1.0.1
+# bats/bats:1.8.2
+# grafana/loki:2.6.1
+# grafana/promtail:3.5.1
+
+## seaweedfs-csi
+# registry.k8s.io/sig-storage/csi-provisioner:v3.5.0
+# registry.k8s.io/sig-storage/csi-resizer:v1.8.0
+# registry.k8s.io/sig-storage/csi-attacher:v4.3.0
+# registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
+# registry.k8s.io/sig-storage/livenessprobe:v2.10.0
+# chrislusf/seaweedfs-csi-driver:latest
+# chrislusf/seaweedfs-mount:dev
+
+## tempo
+# docker.io/grafana/tempo:2.9.0
+# docker.io/grafana/tempo-query:2.9.0
+
+## Demo
+# jaegertracing/example-hotrod:1.48.0
+
+## oTel Collector
+otel/opentelemetry-collector-contrib:0.111.0
+
+
+# rabbitmq:4.1.1-management
+# rabbitmqoperator/cluster-operator:2.16.0
+
+# docker.io/library/kong:3.8
+
+# registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.13.0
+# quay.io/cephcsi/cephcsi:v3.14.2
+# registry.k8s.io/sig-storage/csi-provisioner:v5.1.0
+# registry.k8s.io/sig-storage/csi-resizer:v1.13.1
+# registry.k8s.io/sig-storage/csi-snapshotter:v8.2.0
+
+## cilium
+# quay.io/cilium/cilium:v1.17.6
+# quay.io/cilium/certgen:v0.2.1
+# quay.io/cilium/hubble-relay:v1.17.6
+# quay.io/cilium/hubble-ui-backend:v0.13.2
+# quay.io/cilium/hubble-ui:v0.13.2
+# quay.io/cilium/cilium-envoy:v1.33.4-1752151664-7c2edb0b44cf95f326d628b837fcdd845102ba68
+# quay.io/cilium/operator:v1.17.6
+# quay.io/cilium/startup-script:c54c7edeab7fde4da68e59acd319ab24af242c3f
+# quay.io/cilium/clustermesh-apiserver:v1.17.6
+# docker.io/library/busybox:1.37.0
+# ghcr.io/spiffe/spire-agent:1.9.6
+# ghcr.io/spiffe/spire-server:1.9.6
+
+## harbor
+# goharbor/nginx-photon:v2.3.5
+# goharbor/harbor-portal:v2.3.5
+# goharbor/harbor-core:v2.3.5
+# goharbor/harbor-jobservice:v2.3.5
+# goharbor/registry-photon:v2.3.5
+# goharbor/harbor-registryctl:v2.3.5
+# goharbor/chartmuseum-photon:v2.3.5
+# goharbor/trivy-adapter-photon:v2.3.5
+# goharbor/notary-server-photon:v2.3.5
+# goharbor/notary-signer-photon:v2.3.5
+# goharbor/harbor-db:v2.3.5
+# goharbor/redis-photon:v2.3.5
+# goharbor/harbor-exporter:v2.3.5
+
+
+
+# goharbor/nginx-photon:v2.13.1
+# goharbor/harbor-portal:v2.13.1
+# goharbor/harbor-core:v2.13.1
+# goharbor/harbor-jobservice:v2.13.1
+# goharbor/registry-photon:v2.13.1
+# goharbor/harbor-registryctl:v2.13.1
+# goharbor/trivy-adapter-photon:v2.13.1
+# goharbor/harbor-db:v2.13.1
+# goharbor/redis-photon:v2.13.1
+# goharbor/harbor-exporter:v2.13.1
+
+## memcached
+# memcached:1.6
+# registry-1.docker.io/bitnami/memcached:latest
+# registry-1.docker.io/bitnami/memcached-exporter:latest
+# registry-1.docker.io/bitnami/os-shell:latest
+
+
+## thanos
+# quay.io/thanos/thanos:v0.29.0
+# quay.io/thanos/thanos:v0.32.5
+# thanosio/thanos:main-2025-12-19-9c0775c
+
+# jimmidyson/configmap-reload:v0.5.0
+
+## dingtalk webhook
+# timonwong/prometheus-webhook-dingtalk:v2.1.0
+
+## keycload
+#quay.io/keycloak/keycloak:26.2.5
+#mirror.gcr.io/postgres:17
+
+## oath2-proxy
+# bitnami/oauth2-proxy:7.9.0
+
+## EFK
+# fluent/fluent-bit:4.0.3
+# ghcr.io/jimmidyson/configmap-reload:v0.14.0
+# docker.elastic.co/kibana/kibana:8.5.1
+# docker.elastic.co/kibana/kibana:7.17.3
+
+## docker
+# docker:28.2.2-dind
+# docker:28.2.2-dind-alpine3.22
+# docker:28.2.2-dind-rootless
+# docker:28.2.2
+
+
+## kaniko
+# plugins/kaniko:1.11
+# gcr.io/kaniko-project/executor:v1.24.0
+# bitnami/kaniko:1.24.0
+
+## jdk
+# larrypu/jdk17:17.0.15
+# eclipse-temurin:17.0.15_6-jdk-alpine-3.21
+
+## elasticserach
+# docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+
+## skywalking
+# apache/skywalking-oap-server:10.2.0
+# apache/skywalking-ui:10.2.0
+# apache/skywalking-satellite:v1.3.0
+# apache/skywalking-java-agent:9.4.0-java17
+# apache/skywalking-java-agent:9.4.0-alpine
+
+## kubeblocks
+# registry.k8s.io/sig-storage/snapshot-controller:v8.2.1
+
+## openebs
+# openebs/linux-utils:4.1.0
+# openebs/lvm-driver:1.6.1
+# openebs/provisioner-localpv:4.2.0
+# openebs/zfs-driver:2.7.1
+# registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
+# registry.k8s.io/sig-storage/csi-provisioner:v3.5.0
+# registry.k8s.io/sig-storage/csi-resizer:v1.8.0
+# registry.k8s.io/sig-storage/csi-snapshotter:v6.2.2
+# registry.k8s.io/sig-storage/snapshot-controller:v6.2.2
+# bitnami/kubectl:1.33.1
+
+
+
+## ingress controller
+# registry.k8s.io/ingress-nginx/controller:v1.12.2
+# registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.3
+# registry.k8s.io/defaultbackend-amd64:1.5
+
+## dashboard
+# docker.io/kubernetesui/dashboard-api:1.13.0
+# docker.io/kubernetesui/dashboard-auth:1.3.0
+# kong:3.8
+# docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2
+# docker.io/kubernetesui/dashboard-web:1.7.0
+
+## calico
+# quay.io/tigera/operator:v1.38.3
+# docker.io/calico/ctl:v3.30.2
+# docker.io/calico/node:v3.30.2
+# docker.io/calico/cni:v3.30.2
+# docker.io/calico/node:v3.30.2
+# docker.io/calico/typha:v3.30.2
+# docker.io/calico/csi:v3.30.2
+# docker.io/calico/goldmane:v3.30.2
+# docker.io/calico/whisker:v3.30.2
+# docker.io/calico/pod2daemon-flexvol:v3.30.2
+# docker.io/calico/whisker-backend:v3.30.2
+# docker.io/calico/apiserver:v3.30.2
+
+# quay.io/tigera/operator:v1.38.0
+# docker.io/calico/kube-controllers:v3.30.0
+# docker.io/calico/kube-controllers:v3.30.2
+# docker.io/calico/typha:v3.30.0
+# docker.io/calico/goldmane:v3.30.0
+# docker.io/calico/whisker:v3.30.0
+# docker.io/calico/whisker-backend:v3.30.0
+# docker.io/calico/node:v3.30.0
+# docker.io/node:18.20.8-alpine
+# docker.io/node:18.20.8-bullseye-slim
+# docker.io/calico/pod2daemon-flexvol:v3.30.0
+# docker.io/calico/cni:v3.30.0
+# docker.io/calico/csi:v3.30.0
+# docker.io/calico/node-driver-registrar:v3.30.0
+# docker.io/calico/node-driver-registrar:v3.30.2
+# docker.io/calico/apiserver:v3.30.0
+
+## k8s 1.34.2
+
+# registry.k8s.io/kube-apiserver:v1.34.2
+# registry.k8s.io/kube-controller-manager:v1.34.2
+# registry.k8s.io/kube-scheduler:v1.34.2
+# registry.k8s.io/kube-proxy:v1.34.2
+# registry.k8s.io/coredns/coredns:v1.12.1
+# registry.k8s.io/etcd:3.6.5-0
+# registry.k8s.io/pause:3.10.1
+
+## contour
+# docker.io/bitnami/contour:1.32.1-debian-12-r0
+# docker.io/bitnami/envoy:1.34.5-debian-12-r0
+# docker.io/bitnami/nginx:1.29.1-debian-12-r0
+# ghcr.io/projectcontour/contour:v1.32.0
+# docker.io/envoyproxy/envoy:v1.34.1
+
+## k8s 1.33.6
+
+# registry.k8s.io/kube-apiserver:v1.33.6
+# registry.k8s.io/kube-controller-manager:v1.33.6
+# registry.k8s.io/kube-scheduler:v1.33.6
+# registry.k8s.io/kube-proxy:v1.33.6
+# registry.k8s.io/etcd:3.5.24-0
+# registry.k8s.io/pause:3.10.1
+
+
+## k8s 1.33.1
+
+# registry.k8s.io/kube-apiserver:v1.33.1
+# registry.k8s.io/kube-controller-manager:v1.33.1
+# registry.k8s.io/kube-scheduler:v1.33.1
+# registry.k8s.io/kube-proxy:v1.33.1
+# registry.k8s.io/coredns/coredns:v1.12.0
+# registry.k8s.io/pause:3.10
+# registry.k8s.io/pause:3.8
+# registry.k8s.io/etcd:3.5.21-0
+# mysql:lts
+
+## nacos
+
+# nacos/nacos-server:v2.5.0
+# nacos/nacos-server:v3.0.0
+# nacos/nacos-server:v3.0.1
+# nacos/nacos-peer-finder-plugin:1.1
+# registry.aliyuncs.com/google_containers/kube-proxy:v1.18.8
+# docker.io/calico/kube-controllers:v3.24.1
+# docker.io/calico/typha:v3.24.1
+# docker.io/calico/node:v3.24.1
+# docker.io/calico/cni:v3.24.1
+# quay.io/external_storage/local-volume-provisioner:v2.3.4
+# registry.k8s.io/sig-storage/local-volume-provisioner:v2.6.0
+# docker.io/rancher/mirrored-flannelcni-flannel:v0.19.1
+# docker.io/rancher/mirrored-flannelcni-flannel-cni-plugin:v1.1.0
+# k8s.gcr.io/pause:3.2
+# node:18
+# docker.io/flannel/flannel:v0.25.4
+# docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1
+# luyuehm/defaultbackend-amd64:1.5
+# luyuehm/nginx-ingress-controller:0.33.0
+# luyuehm/metrics-server:v0.3.7
+# luyuehm/dashboard:v2.0.4
+# luyuehm/metrics-scraper:v1.0.4
+# quay.io/prometheus/prometheus:v2.20.0
+# quay.io/coreos/prometheus-config-reloader:v0.40.0
+# jimmidyson/configmap-reload:v0.3.0
+# quay.io/prometheus/alertmanager:v0.21.0
+# quay.io/prometheus/alertmanager:v0.28.1
+# grafana/grafana:7.1.0
+# quay.io/kiwigrid/k8s-sidecar:1.24.4
+
+# kiwigrid/k8s-sidecar:2.1.4
+
+# gcr.io/google_containers/hyperkube:v1.16.0
+# victoriametrics/victoria-metrics:v1.76.1
+# victoriametrics/operator:v0.39.3
+# victoriametrics/operator:v0.35.1
+# victoriametrics/vmstorage:v1.91.3-cluster
+# victoriametrics/vmselect:v1.91.3-cluster
+# victoriametrics/vminsert:v1.91.3-cluster
+# quay.io/prometheus-operator/prometheus-config-reloader:v0.58.0
+# victoriametrics/vmagent:v1.91.3
+# victoriametrics/vmauth:v1.91.3
+# prom/alertmanager:v0.25.0
+# victoriametrics/vmalert:v1.91.3
+# directxman12/k8s-prometheus-adapter:v0.7.0
+# rancher/local-path-provisioner:v0.0.22
+# busybox
+# grafana-oss:latest
+# kbudde/rabbitmq-exporter
+# prom/snmp-exporter:v0.20.0
+# prom/mysqld-exporter:v0.17.2
+# quay.io/prometheuscommunity/elasticsearch-exporter:latest
+# hashicorp/http-echo
+# loadimpact/k6
+# influxdb:1.8
+# kubesphere/devops-tools:ks-v3.4.1
+# kubesphere/devops-apiserver:ks-v3.4.1
+# docker.io/bitnami/zookeeper:3.9.2-debian-12-r11
+# docker.io/bitnami/kafka:3.8.0-debian-12-r0
+# bitnami/kubectl:1.18.8-debian-10-r29
+# bitnami/os-shell:12-debian-12-r27
+# bitnami/jmx-exporter:1.0.1-debian-12-r5
+# docker.elastic.co/beats/filebeat:7.4.2
+# docker.elastic.co/logstash/logstash:7.4.2
+# kafkace/kafka:v3.6.1
+# danielqsj/kafka-exporter
+# provectuslabs/kafka-ui:v0.7.1
+# elastic/filebeat:7.17.23
+# elastic/logstash:7.17.23
+# quay.io/prometheus-operator/prometheus-config-reloader:v0.48.1
+# openebs/node-disk-exporter:2.1.0
+# luyuehm/flannel:v0.12.0-amd64
+# openebs/node-disk-manager:2.1.0
+# rancher/local-path-provisioner:v0.0.17
+# docker.io/library/ubuntu:16.04
+# digitalocean/ceph_exporter:2.0.0-luminous
+# digitalocean/ceph_exporter:1.1.0
+# prom/blackbox-exporter:latest
+# registry.cn-hangzhou.aliyuncs.com/acs/log-pilot:0.9.7-filebeat
+# grafana/grafana:latest
+# golang:1.22-alpine
+# alpine:latest
+# amazoncorretto:8u432-al2023
+# linuxserver/libreoffice:7.6.7
+# centos:centos7
+# xhongc/music_tag_web:latest
+# openebs/provisioner-localpv:3.4.0
+# victoriametrics/victoria-logs:latest
+# timberio/vector:nightly-alpine
+# timberio/vector:nightly-debian
+# timberio/vector:0.43.0-debian
+# docker.io/grafana/loki:2.9.5
+# docker.io/nginxinc/nginx-unprivileged:1.20.2-alpine
+# docker.io/grafana/loki:2.9.5
+# docker.io/grafana/promtail:3.0.0
+# docker.io/grafana/promtail:2.9.3
+# docker.io/grafana/loki:2.6.1
+# fluent/fluentd:v1.18.0-1.0
+# fluent/fluentd:v1.18-debian-1
+# fluent/fluentd-kubernetes-daemonset:v1.11.4-debian-elasticsearch7-1.0
+# timberio/vector:0.43.0-distroless-libc
+# timberio/vector:latest-debian
+# timberio/vector:0.43.1-debian
+# timberio/vector:0.43.1-alpine
+# fluentd:v1.6-1
+# bitnami/fluentd:1.12.0-debian-10-r0
+# bitnami/minideb
+# quay.io/fluentd_elasticsearch/fluentd:v3.4.0
+# fluentd:v1.14-1
+# fluentd:v1.18-1
+# cr.fluentbit.io/fluent/fluent-bit:3.2.2
+# elasticsearch:7.4.2
+# kibana:7.4.2
+# elasticsearch:8.16.0
+# kibana:8.16.0
+# msaporito/nuxt3:latest
+# aleksandrkapushchak/nuxt3:nuxt3
+# aleksandrkapushchak/nuxt3:production
+# heleicool/log-pilot:7.x-filebeat
+# redis:7.4.1-alpine
+# redis:8.4.0
+# nginx:1.19.10-alpine
+# bitnami/nginx-ingress-controller:0.33.0-debian-10-r12
+# node:18.19.1-alpine3.19
+# openresty/openresty:alpine
+# bitnami/nginx-ingress-controller:0.33.0
+
+# docker.io/netdata/package-builders:ubuntu22.04-v2
+## upgrade k8s
+# coredns/coredns:1.8.0
+# kubernetesui/dashboard:v2.7.0
+# kubernetesui/metrics-scraper:v1.0.8
+# k8s.gcr.io/ingress-nginx/controller:v1.1.0
+# k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
+# k8s.gcr.io/defaultbackend-amd64:1.5
+## metallb
+# bitnami/metallb-controller:0.14.9
+# bitnami/metallb-speaker:0.14.9
+# bitnami/kube-rbac-proxy:0.18.2
+# quay.io/frrouting/frr:9.1.0
+# quay.io/metallb/frr-k8s:v0.0.16
+# quay.io/frrouting/frr:9.1.0
+# gcr.io/kubebuilder/kube-rbac-proxy:v0.12.0
+## kube-prometheus
+# registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
+# registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+# registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
+# registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
+# quay.io/brancz/kube-rbac-proxy:v0.14.0
+# quay.io/brancz/kube-rbac-proxy:v0.18.1
+# grafana/grafana:9.3.2
+# grafana/grafana:11.2.0
+# quay.io/prometheus/blackbox-exporter:v0.23.0
+# quay.io/prometheus/blackbox-exporter:v0.25.0
+# jimmidyson/configmap-reload:v0.5.0
+# ghcr.io/jimmidyson/configmap-reload:v0.13.1
+# quay.io/prometheus-operator/prometheus-config-reloader:v0.62.0
+# quay.io/prometheus-operator/prometheus-config-reloader:v0.76.2
+# quay.io/prometheus-operator/prometheus-operator:v0.62.0
+# quay.io/prometheus-operator/prometheus-operator:v0.76.2
+# quay.io/prometheus/node-exporter:v1.5.0
+# quay.io/prometheus/node-exporter:v1.8.2
+# quay.io/prometheus/prometheus:v2.41.0
+# quay.io/prometheus/prometheus:v2.54.1
+# quay.io/prometheus/alertmanager:v0.27.0
+# registry.k8s.io/sig-storage/snapshot-controller:v8.2.0
+## MinIO
+# quay.io/minio/minio:RELEASE.2024-04-18T19-09-19Z
+# quay.io/minio/mc:RELEASE.2024-04-18T16-45-29Z
+# minio/mc:RELEASE.2024-11-21T17-21-54Z.fips
+# minio/minio:latest
+# nibrev/ant-media-server:ams-v2.6.2
+
+# minio/mc:latest
+# quay.io/minio/minio:RELEASE.2024-12-18T13-15-44Z
+# quay.io/minio/mc:RELEASE.2024-11-21T17-21-54Z
+## rook-ceph 1.16.0
+# docker.io/rook/ceph:v1.16.0
+# quay.io/cephcsi/cephcsi:v3.13.0
+# registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.11.1
+# registry.k8s.io/sig-storage/csi-provisioner:v5.0.1
+# registry.k8s.io/sig-storage/csi-snapshotter:v8.0.1
+# registry.k8s.io/sig-storage/csi-attacher:v4.6.1
+# registry.k8s.io/sig-storage/csi-resizer:v1.11.1
+# quay.io/csiaddons/k8s-sidecar:v0.11.0
+# quay.io/ceph/ceph:v19.2.0
+## rook-ceph 1.13.0
+# docker.io/rook/ceph:v1.13.0
+# registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.9.1
+# quay.io/cephcsi/cephcsi:v3.10.0
+# registry.k8s.io/sig-storage/csi-attacher:v4.4.2
+# registry.k8s.io/sig-storage/csi-snapshotter:v6.3.2
+# registry.k8s.io/sig-storage/csi-resizer:v1.9.2
+# registry.k8s.io/sig-storage/csi-provisioner:v3.6.2
+# quay.io/ceph/ceph:v17.2.6
+# quay.io/csiaddons/k8s-sidecar:v0.7.0
+# yapi
+# yapipro/yapi:1.9.5
+# yapipro/yapi:1.9.4
+# node:22.12.0
+# node:16.20.2-alpine3.17
+# python:3.11-slim
+## ingress-nginx
+# registry.k8s.io/ingress-nginx/opentelemetry-1.25.3:v20240813-b933310d
+# registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0
+# registry.k8s.io/defaultbackend-amd64:1.5
+# registry.k8s.io/ingress-nginx/controller:v1.11.4
+# lemonldapng/lemonldap-ng-controller:0.2.0
+## traefik
+# docker.io/traefik:v3.3.3
+# docker.io/istio/pilot:1.23.5
+# docker.io/istio/proxyv2:1.23.5
+# docker.io/grafana/loki:3.0.0
+# ghcr.io/prometheus-operator/prometheus-config-reloader:v0.73.2
+# prom/prometheus:v2.52.0
+# docker.io/grafana/grafana:11.0.0
+# docker.io/jaegertracing/all-in-one:1.58
+# quay.io/kiali/kiali:v1.87
+# ghcr.io/open-webui/open-webui:main
+
+## dify
+# langgenius/dify-api:1.0.0
+# langgenius/dify-web:1.0.0
+# postgres:15-alpine
+# redis:6-alpine
+# langgenius/dify-sandbox:0.2.10
+# langgenius/dify-plugin-daemon:0.0.3-local
+
+# ubuntu/squid:latest
+# certbot/certbot
+# nginx:latest
+# semitechnologies/weaviate:1.19.0
+# langgenius/qdrant:v1.7.3
+# pgvector/pgvector:pg16
+
+# tensorchord/pgvecto-rs:pg16-v0.3.0
+# ghcr.io/chroma-core/chroma:0.5.20
+# quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
+# container-registry.oracle.com/database/free:latest
+# quay.io/coreos/etcd:v3.5.5
+
+# minio/minio:RELEASE.2023-03-20T20-16-18Z
+# milvusdb/milvus:v2.5.0-beta
+# opensearchproject/opensearch:latest
+# opensearchproject/opensearch-dashboards:latest
+
+# myscale/myscaledb:1.6.4
+# docker.elastic.co/elasticsearch/elasticsearch:8.14.3
+# docker.elastic.co/kibana/kibana:8.14.3
+# downloads.unstructured.io/unstructured-io/unstructured-api:latest
+# giopez/ffmpeg-6.0
+# nginx:latest
+# ngrok/ngrok:latest
+# python:3.13-slim
+# quay.io/ceph/ceph:v19.2.1
